@@ -120,7 +120,7 @@ TextureImporter:
       name: SPA_Enemy_Right_0
       rect:
         serializedVersion: 2
-        x: 12
+        x: 10
         y: 4
         width: 32
         height: 32
@@ -141,7 +141,7 @@ TextureImporter:
       name: SPA_Enemy_Right_1
       rect:
         serializedVersion: 2
-        x: 50
+        x: 48
         y: 4
         width: 32
         height: 32
@@ -162,7 +162,7 @@ TextureImporter:
       name: SPA_Enemy_Right_2
       rect:
         serializedVersion: 2
-        x: 88
+        x: 86
         y: 4
         width: 32
         height: 32
@@ -183,7 +183,7 @@ TextureImporter:
       name: SPA_Enemy_Right_3
       rect:
         serializedVersion: 2
-        x: 126
+        x: 124
         y: 4
         width: 32
         height: 32
@@ -204,7 +204,7 @@ TextureImporter:
       name: SPA_Enemy_Right_4
       rect:
         serializedVersion: 2
-        x: 164
+        x: 162
         y: 4
         width: 32
         height: 32
@@ -225,7 +225,7 @@ TextureImporter:
       name: SPA_Enemy_Right_5
       rect:
         serializedVersion: 2
-        x: 202
+        x: 200
         y: 4
         width: 32
         height: 32
