@@ -193,6 +193,8 @@ MonoBehaviour:
   runSpeed: 7
   jumpSpeed: 20
   climbSpeed: 5
+  bullet: {fileID: 7975038470114810466, guid: 6107ad9a679f6d5479314d6e605a3448, type: 3}
+  gun: {fileID: 4149354159667992531}
 --- !u!61 &2937671854558274607
 BoxCollider2D:
   m_ObjectHideFlags: 0
