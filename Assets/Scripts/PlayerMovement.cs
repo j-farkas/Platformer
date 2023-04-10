@@ -102,7 +102,7 @@ public class PlayerMovement : MonoBehaviour
         {
             isAlive = false;
             myAnimator.SetTrigger("Dying");
-
+            FindObjectOfType<GameSession>().ProcessPlayerDeath();
         }
     }
 
